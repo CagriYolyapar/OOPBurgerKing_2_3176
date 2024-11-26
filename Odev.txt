@@ -1,0 +1,16 @@
+﻿1 => Pizza siparis otomasyonu yapınız...
+
+2 => Bana üc tane Kriptoloji sınıfı yaratınız...
+
+Yarattıgınız sınıf icerisinde bir sifreleyici bir de sifre cözücü davranısları bulunacak...
+
+Bu sınıf sifreliyici davranısı söyle davranacak
+
+n.Sifrele("123");
+
+asdjbasjdbasbdasbdaubduasbduabsdsad
+
+Sifre cözücü davranısı ise söyle davranacak
+
+n.SifreCoz(asdjbasjdbasbdasbdaubduasbduabsdsad) => 123
+
